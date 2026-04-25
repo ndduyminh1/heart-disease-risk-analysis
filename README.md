@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](PASTE_COLAB_LINK)
+🔗 [Open Notebook in Google Colab](https://colab.research.google.com/drive/1HYmZNAk8ctffz51Y_jqd6a19WyIOH7kQ?usp=sharing)
 # Heart Disease Prediction using Machine Learning
 
 ## Project Overview
