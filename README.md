@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](PASTE_COLAB_LINK)
 # Heart Disease Prediction using Machine Learning
 
 ## Project Overview
