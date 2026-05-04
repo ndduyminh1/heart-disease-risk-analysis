@@ -1,6 +1,6 @@
 # Heart Disease Risk Prediction — ISOM 835 Final Project
 
-[![Open In Colab](https://colab.research.google.com/drive/1Rfo1n1ApraoKflVp8kGf3SgkFRo5LyRv?usp=sharing)
+[![Open In Colab]([https://colab.research.google.com/drive/1Rfo1n1ApraoKflVp8kGf3SgkFRo5LyRv?usp=sharing](https://colab.research.google.com/drive/1Rfo1n1ApraoKflVp8kGf3SgkFRo5LyRv?usp=sharing))
 
 **Author:** Doan Duy Minh Nguyen
 **Course:** ISOM 835 — Predictive Analytics, Suffolk University (Sawyer Business School)
