@@ -118,10 +118,3 @@ Lowering the decision threshold from the default 0.50 to **0.48** raises recall 
 ## Tools & Technologies
 
 Python 3 · pandas · NumPy · scikit-learn (Pipelines, GridSearchCV, StratifiedKFold) · Matplotlib · Seaborn · Google Colab
-
-## How to Reproduce
-
-1. Open the Colab badge above (or upload the notebook to Colab manually)
-2. Upload `heart_disease_uci.csv` to the Colab session storage
-3. **Runtime → Run all**
-4. Total runtime ≈ 3–5 minutes (most of it is GridSearchCV)
